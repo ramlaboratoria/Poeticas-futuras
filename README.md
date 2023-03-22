@@ -6,8 +6,9 @@ Documentación bajo la [Licencia Feminista de Producción de Pares](https://labe
 Presencial, Ciudad de México
 
 ![poeticas](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjk3ZTQ1MGJhOGNkY2E5YjYyMjY4NmFlZDg4MWEyYmNhNDcxOGUxNyZjdD1n/li0s0yrz011JbkXbO9/giphy.gif)  
+
 Gif retomado de [Coding Rights](https://giphy.com/gifs/codingrights-tech-speculative-transfeministech-li0s0yrz011JbkXbO9)
---- 
+
 >“Un cyborg es un organismo cibernético, un híbrido de máquina y organismo, una criatura de realidad social y también de ficción”  
 >– Donna Haraway –
 
@@ -31,16 +32,14 @@ En este espacio de crítica tecnológica sembraremos ficciones posibles que sean
  - [ ] Sesión 3 
  	- Compartir textos y procesos. 
 	
-# Contenido
-
-1 e
 
 # Referencias
 - [La Inteligencia articial siempre será tonta y destructora](https://desinformemonos.org/la-inteligencia-artificial-siempre-sera-tonta-y-destructora/) por Verónica Villa
-- [Meditaciones Sónicas](http://www.soundportraits.info/wp-content/uploads/2019/06/Oliveros_Pauline_Sonic_Meditations_1974.pdf) por Pauline Oliveiros
+- [Meditaciones Sónicas](http://www.soundportraits.info/wp-content/uploads/2019/06/Oliveros_Pauline_Sonic_Meditations_1974.pdf) por Pauline Oliveiros . Fragmentos [versión en español](https://drive.google.com/file/d/1aAfSwwqV9YEcFdNUmOXxBiemS5qMiEEB/view)
 - [Compendio de herramientas de autocuidado y sanación](https://consorciooaxaca.org/wp-content/uploads/2020/05/compendio_Autocuidado.pdf) por Consorcio para el Diálogo Parlamentario y la Equidad Oaxaca AC.
 - [Creando documentación y preservando la Memoria Colectiva](https://es.gendersec.train.tacticaltech.org/) por Tactical Tech
-- [Inteligencia Artifical Feminista]() por 
+- [Inteligencia Artifical Feminista]() por Feminist AI REsearch Network
+- [FAI ] por Sophie Tupin. 
 - [Oráculo por tecnologías transfeministas](https://www.transfeministech.codingrights.org/) por Coding Rights
 - [Por qué la I.A. es un asunto feminista](https://notmy.ai/es/) por Coding Rights
 - [Echo](http://angelsbarcelona.com/en/artists/lua-coderch/projects/echo/1365) por Lúa Corderch en colaboración con Julia Múgica, Lluís Nacenta e Iván Paz.
@@ -51,6 +50,8 @@ En este espacio de crítica tecnológica sembraremos ficciones posibles que sean
 - [Venus en dos actos](https://hemisphericinstitute.org/en/emisferica-91/9-1-essays/venus-en-dos-actos.html) por Saidiya Hartman.
 - [Tecnoafecciones. Por una política de la co-responsabilidad](https://sursiendo.org/2022/08/escrituras-hackfeministas-para-otras-tecnologias/) editado por Nadia Cortés. 
 - [Cómo montar una servidora feminista con conexión casera](https://labekka.red/servidoras-feministas/) por la_bekka
+- [Shaping Feminist Artificial Intelligence Then and Now](https://zoiahorn.anarchaserver.org/thf2022/2022/06/04/agenda-shaping-feminist-artificial-intelligence-then-and-now/) por Sophie Toupin
+- [Jornadas THF 2021](https://crabgrass.riseup.net/wetlab) por Wetlab
 
 # Materiales 
 
