@@ -1,23 +1,6 @@
 import speech_recognition as sr
 import os
-import markovify
-
-# Convierte una arreglo (lista) a string
-def listToString(s):   
-    # Inicializa un string vacío
-    str1 = " "
-    # Regresa el string junto
-    return (str1.join(s))
- 
-#Agrega una linea cada que entra el texto 
-def write_to_file(text):
-    with open('/home/ramlab/git/ram/Poeticas-futuras/salida.txt', 'a') as f:
-        f.write(text + "\n")
-        f.close()
-
-# INPUT Y RECONOCIMIENTO DE VOZ
-
-# Inicializa el reconocimiento
+# import markovify
 
 # Obtiene el audio del micrófono
 r = sr.Recognizer()
@@ -30,10 +13,10 @@ with sr.Microphone() as source:
     print("You said:  "+MyText)
     write_to_file(MyText)
     
-    
+# Lee, guarda y cierra     
 with open('/home/ramlab/git/ram/Poeticas-futuras/salida.txt') as g:
     text_a = g.read()
-    g.close()
+    # g.close()
     
 model_a = markovify.Text(text_a)
 model_combo = markovify.combine([ model_a ])  #en esta línea agregar los nuevos textos en el array separados por comas
@@ -54,16 +37,3 @@ print(texto_final)
 #os.system("echo "+listToString(texto_final)+" | iconv -f utf-8 -t iso-8859-1 | festival --tts")     
     
     
-# ABRIR EL ARCHIVO TXT
-
-
-# ALMACENAMIENTO EN TXT
-
-
-# PROCESAMIENTO TXT - MARKOV 
-
-
-# SALIDA TXT - FESTIVAL
-
-
- 

@@ -1,8 +1,2 @@
-Hola
-mirar cómo va mi ritmo
-tengo mucho sueño
-mi cama me está esperando
-Ah sí y caminaba por las calles mientras comía una hamburguesa
-Quiero leer mucho pero no puedo
-Ayer fue un día lluvioso hoy no
-hoy cenamos lechuga y enchiladas
+HOla esta es una prueba. El documento se genero desde el principio con gedit. No hay intervención de algún tipo. Estoy generando texto que podría funcionar. Una base de datos pequeña. Será que necesitamos una cantidad bestial de texto? Cuánto texto se puede acumular en cuatro horas
+Pienso que tiene que ser bastante texto. Necesitaremos más texto igual pienso que podría funcionar sin el salto de línea. A lo mejor las líneas son demasiado pequeñas y no hay información suficiente. 

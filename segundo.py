@@ -19,10 +19,11 @@ model_combo = markovify.combine([ model_a ])  #en esta línea agregar los nuevos
 # texto_final=model_combo.make_sentence()
 texto_final = []; 
 
-for i in range(5): # cambia el número de oraciones
+for i in range(10):
     #print(texto_final)    
     texto_final.append(model_combo.make_sentence()); 
     # print(texto_final); 
+#AGREGAR CODIGO DEL GATO PARA IMPRIMIR 
 
 print(listToString(texto_final))
 
