@@ -67,11 +67,32 @@ Sentadxs en un círculo, pasan dos o tres personas al centro y en forma de díal
 ### Dispositivos relacionales 
 El consumo desvinculado de los procesos de producción, ciclos y rutas que permiten hacer esa tecnología posible, nos disvinculan y desterritorializan. En este ejercio exploraremos el sistema de habla a texto y texto a habla. 
 
-![init-sistema](https://github.com/MarianneTeixido/contravisualidades/blob/main/img/portada.png)  
+![init-sistema](https://github.com/ramlaboratoria/Poeticas-futuras/blob/main/img/RAM-init.jpg)  
 
-En colectiva probaremos los dos métodos para generar un input de texto. Con voz y con texto digitalizado. Armada la base de datos de texto, comenzaremos a remixear usando cadenas de Markov. Finalmente usaremos Festival para enunciar los texto generados.
+En colectiva probaremos los dos métodos para generar un input de texto. Con voz y con texto digitalizado. Armada la base de datos de texto, comenzaremos a remixear usando cadenas de Markov. Finalmente usaremos Festival para enunciar los texto generados.  
 
+Algunas preguntas:  
+- ¿Qué documentamos y porqué?  
+- ¿Cuales son nuestras motivaciones al hacerlo? Es para uso interno o externo?   
+- ¿Cuál es el sentido político de la memoria colectiva en procesos de defensa y sanación?  
+- ¿Cuales son las amenazas y riesgos que nuestra memoria colectiva tenga que enfrontar?  
+- ¿Como podemos proteger nuestra memoria colectiva (física y digital)?  
+- ¿Quien es el dueño de nuestra memoria colectiva (física y digital)?  
+- ¿Cóm gestionamos la memoria?¿En qué formato soportes?  
+- ¿Cuál es la relación con el archivo?  
+- ¿Cómo reescribimos la tecnología desde nuestras memorias colectivas?
+- ¿Cómo lograr una autonoía y descentralización de la memoria?
 
+Montar un servicio semiautónomo con funcionamiento local de stt-tts (speech-to-text  text-to-speech) en una RaspBerry Pi. 
+
+### Reescritura de memorias y tecnologías 
+
+Intentar pasar los archivos de memoria a texto para ser leído por la computadora. 
+En parejas, compartimos más a profundidad las memorias de cuidado y quién escucha deberá hacer un ejercio de transducción para pasar la memoria a voz o texto.   
+
+Concluir la sesión con un momento para la escucha de las memorias. Accionar las voces, maquínicas y humanxs.  
+
+Opcional, generar un registro audible. 
 
 ## Sesión 3
 Creación de un mural, pieza sonora o fanzine.   
