@@ -57,6 +57,22 @@ Colocar en una pared los postit itentando encontrar afinidades, temas, tópicos 
 ## Sesión 2
 Escritura y habla colaborativa humanxs y no humanxs  
 
+### Tecnoafecciones 
+Tomarnos un tiempo para tomarnos el té del tiempo. 
+Infusionar los sentires.   
+
+### Círculo de tejido de texto
+Sentadxs en un círculo, pasan dos o tres personas al centro y en forma de díalogo compartimos nuestras memorias de cuidado y autocuidado. Todas les participantes del círculo de tejido de texto, anotan palabras al asar dispersas en una hoja por persona. Anotan palabras que les resuenen o resulten significativas. Cuando todes terminen de compartir las hojas con las palabras dispersas la pasarán a otre compañere. Con la hoja que pasaron, se hilan las palabras señalando con una linea que las conecte. Se vuelven a pasar las hojas a otrxs persona. Ahora, estas frases hiladas se tejeran en un texto que las conecte una a una para generar un párrafo. Nos juntaremos a escribir un texto con los párrafos escritos.   
+
+### Dispositivos relacionales 
+El consumo desvinculado de los procesos de producción, ciclos y rutas que permiten hacer esa tecnología posible, nos disvinculan y desterritorializan. En este ejercio exploraremos el sistema de habla a texto y texto a habla. 
+
+![init-sistema](https://github.com/MarianneTeixido/contravisualidades/blob/main/img/portada.png)  
+
+En colectiva probaremos los dos métodos para generar un input de texto. Con voz y con texto digitalizado. Armada la base de datos de texto, comenzaremos a remixear usando cadenas de Markov. Finalmente usaremos Festival para enunciar los texto generados.
+
+
+
 ## Sesión 3
 Creación de un mural, pieza sonora o fanzine.   
 
@@ -65,7 +81,7 @@ Creación de un mural, pieza sonora o fanzine.
 - [Meditaciones Sónicas](http://www.soundportraits.info/wp-content/uploads/2019/06/Oliveros_Pauline_Sonic_Meditations_1974.pdf) por Pauline Oliveiros . Fragmentos [versión en español](https://drive.google.com/file/d/1aAfSwwqV9YEcFdNUmOXxBiemS5qMiEEB/view)
 - [Compendio de herramientas de autocuidado y sanación](https://consorciooaxaca.org/wp-content/uploads/2020/05/compendio_Autocuidado.pdf) por Consorcio para el Diálogo Parlamentario y la Equidad Oaxaca AC.
 - [Creando documentación y preservando la Memoria Colectiva](https://es.gendersec.train.tacticaltech.org/) por Tactical Tech
-- [Inteligencia Artifical Feminista]() por Feminist AI Research Network
+- [Inteligencia Artifical Feminista](https://archive.org/details/inteligencia-artificial-feminista/mode/2up) por Feminist AI Research Network
 - [Oráculo por tecnologías transfeministas](https://www.transfeministech.codingrights.org/) por Coding Rights
 - [Por qué la I.A. es un asunto feminista](https://notmy.ai/es/) por Coding Rights
 - [Echo](http://angelsbarcelona.com/en/artists/lua-coderch/projects/echo/1365) por Lúa Corderch en colaboración con Julia Múgica, Lluís Nacenta e Iván Paz.
@@ -78,6 +94,7 @@ Creación de un mural, pieza sonora o fanzine.
 - [Cómo montar una servidora feminista con conexión casera](https://labekka.red/servidoras-feministas/) por la_bekka
 - [Shaping Feminist Artificial Intelligence Then and Now](https://zoiahorn.anarchaserver.org/thf2022/2022/06/04/agenda-shaping-feminist-artificial-intelligence-then-and-now/) por Sophie Toupin
 - [Jornadas THF 2021](https://crabgrass.riseup.net/wetlab) por Wetlab
+- Metodologías de escritura colaborativa retomadas del Seminario-taller [Posibilidades: copyleft, cooperativas y redes](https://www.piso16.cultura.unam.mx/pisoteca/programa-de-acompanamiento?y=2022) impartido por Vivian Abenshushan. 
 
 # Materiales 
 
@@ -89,10 +106,11 @@ Cinta
 Post-its   
 Estambre   
 Raspberry Pi 3 o 4 modelo B  
-Monitor  
+Monitor o proyector  
 Teclado  
 Mouse   
 Tarjeta de audio con microfono  
+Cable HDMI
 Raspbian instalado en memoria de 16, 32 o 64 GB.   
 
 
