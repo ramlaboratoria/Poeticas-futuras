@@ -94,6 +94,10 @@ Concluir la sesión con un momento para la escucha de las memorias. Accionar las
 
 Opcional, generar un registro audible. 
 
+#### Si mi computadora hablara, ¿qué diría de mí?
+
+Machine Learning como espejo. 
+
 ## Sesión 3
 Creación de un mural, pieza sonora o fanzine.   
 
